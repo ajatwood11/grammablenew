@@ -1,24 +1,6 @@
 # README
+A Ruby on Rails Instagram clone using industry-standard, test-driven development following numerous red/green/refactor cycles. You can click on the links at the top right to sign up or log in. Once you are logged in, you can click 'New Post' at the top right to create a new post. After creating the post, you can either edit or destroy the post using the buttons at the bottom right of the post. You will have to be logged in to edit or destroy. You can make a comment by typing in the text box, then clicking 'Add comment'. You also have to be logged in to make comments. Comments will be posted below the correspoding post.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can find the web app at: https://grammablenew-austin-atwood.herokuapp.com/
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
